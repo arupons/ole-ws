@@ -1,0 +1,212 @@
+p 
+{
+  text-align: justify;
+}
+.margin-right
+{
+  padding-right: 10px;
+}
+.container-nav
+{
+  max-height: 100px;
+}
+#fondocuadro
+{
+	background-image: url("../img/bannerfondo.png");
+}
+.orange
+{
+	color: #F68121;
+}
+.green
+{
+  color: #36e336;
+}
+.sky-blue
+{
+  color: #0099D7;
+}
+.grey
+{
+  color: #BDBDBD
+}
+.bg-grey
+{
+  background-color: #f2f2f6;
+}
+
+.tele
+{
+  margin-bottom: 2px;
+}
+.on
+{
+  display: none;
+}
+
+.languages
+{
+  padding: 0 0;
+  margin: 0 0;
+}
+
+.dl-cont
+{
+  padding-left: 15px;
+}
+
+.footer
+{
+  color: #000;
+}
+
+.bookshelf {
+  background-image: url("../img/serviciosIntegrales/tienda/wall-bookshelf.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0 80px;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/barra.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.icon-ole,
+.nav-pills > .active > a > [class^="icon-"],
+.nav-pills > .active > a > [class*=" icon-"],
+.nav-list > .active > a > [class^="icon-"],
+.nav-list > .active > a > [class*=" icon-"],
+.navbar-inverse .nav > .active > a > [class^="icon-"],
+.navbar-inverse .nav > .active > a > [class*=" icon-"],
+.dropdown-menu > li > a:hover > [class^="icon-"],
+.dropdown-menu > li > a:focus > [class^="icon-"],
+.dropdown-menu > li > a:hover > [class*=" icon-"],
+.dropdown-menu > li > a:focus > [class*=" icon-"],
+.dropdown-menu > .active > a > [class^="icon-"],
+.dropdown-menu > .active > a > [class*=" icon-"],
+.dropdown-submenu:hover > a > [class^="icon-"],
+.dropdown-submenu:focus > a > [class^="icon-"],
+.dropdown-submenu:hover > a > [class*=" icon-"],
+.dropdown-submenu:focus > a > [class*=" icon-"] {
+  background-image: url("../img/barra.png");
+}
+
+.icon-vf {
+  background-position: 0      0;
+}
+
+.icon-f {
+  background-position: 0 -15px;
+}
+.icon-sf {
+  background-position: 0 -30px;
+}
+.icon-ss {
+  background-position: 0 -45px;
+}
+.icon-bs {
+  background-position: 0 -60px;
+}
+.icon-dmv {
+  background-position: 0 -75px;
+}
+
+.icon-clientes,
+.nav-pills > .active > a > [class^="icon-"],
+.nav-pills > .active > a > [class*=" icon-"],
+.nav-list > .active > a > [class^="icon-"],
+.nav-list > .active > a > [class*=" icon-"],
+.navbar-inverse .nav > .active > a > [class^="icon-"],
+.navbar-inverse .nav > .active > a > [class*=" icon-"],
+.dropdown-menu > li > a:hover > [class^="icon-"],
+.dropdown-menu > li > a:focus > [class^="icon-"],
+.dropdown-menu > li > a:hover > [class*=" icon-"],
+.dropdown-menu > li > a:focus > [class*=" icon-"],
+.dropdown-menu > .active > a > [class^="icon-"],
+.dropdown-menu > .active > a > [class*=" icon-"],
+.dropdown-submenu:hover > a > [class^="icon-"],
+.dropdown-submenu:focus > a > [class^="icon-"],
+.dropdown-submenu:hover > a > [class*=" icon-"],
+.dropdown-submenu:focus > a > [class*=" icon-"] {
+  background-image: url("../img/barraclientes.png");
+}
+
+.icon-autoservicios {
+  background-position: 0      0;
+}
+
+.icon-distribuidoras {
+  background-position: 0 -15px;
+}
+.icon-hoteles {
+  background-position: 0 -30px;
+}
+.icon-farmacias {
+  background-position: 0 -45px;
+}
+.icon-restaurants {
+  background-position: 0 -60px;
+}
+.icon-constructoras {
+  background-position: 0 -75px;
+}
+.icon-oficinas-contables {
+  background-position: 0 -90px;
+}
+.icon-comercios-general {
+  background-position: 0 -105px;
+}
+.icon-concesionarias-vehiculos {
+  background-position: 0 -120px;
+}
+
+.icon-anydesk,
+.nav-pills > .active > a > [class^="icon-"],
+.nav-pills > .active > a > [class*=" icon-"],
+.nav-list > .active > a > [class^="icon-"],
+.nav-list > .active > a > [class*=" icon-"],
+.navbar-inverse .nav > .active > a > [class^="icon-"],
+.navbar-inverse .nav > .active > a > [class*=" icon-"],
+.dropdown-menu > li > a:hover > [class^="icon-"],
+.dropdown-menu > li > a:focus > [class^="icon-"],
+.dropdown-menu > li > a:hover > [class*=" icon-"],
+.dropdown-menu > li > a:focus > [class*=" icon-"],
+.dropdown-menu > .active > a > [class^="icon-"],
+.dropdown-menu > .active > a > [class*=" icon-"],
+.dropdown-submenu:hover > a > [class^="icon-"],
+.dropdown-submenu:focus > a > [class^="icon-"],
+.dropdown-submenu:hover > a > [class*=" icon-"],
+.dropdown-submenu:focus > a > [class*=" icon-"] {
+  background-image: url("../img/utilitarios/AnyDesk/1.ico");
+  background-position: 0      0;
+}
+.icon-ammyyadmin,
+.nav-pills > .active > a > [class^="icon-"],
+.nav-pills > .active > a > [class*=" icon-"],
+.nav-list > .active > a > [class^="icon-"],
+.nav-list > .active > a > [class*=" icon-"],
+.navbar-inverse .nav > .active > a > [class^="icon-"],
+.navbar-inverse .nav > .active > a > [class*=" icon-"],
+.dropdown-menu > li > a:hover > [class^="icon-"],
+.dropdown-menu > li > a:focus > [class^="icon-"],
+.dropdown-menu > li > a:hover > [class*=" icon-"],
+.dropdown-menu > li > a:focus > [class*=" icon-"],
+.dropdown-menu > .active > a > [class^="icon-"],
+.dropdown-menu > .active > a > [class*=" icon-"],
+.dropdown-submenu:hover > a > [class^="icon-"],
+.dropdown-submenu:focus > a > [class^="icon-"],
+.dropdown-submenu:hover > a > [class*=" icon-"],
+.dropdown-submenu:focus > a > [class*=" icon-"] {
+  background-image: url("../img/utilitarios/AmmyyAdmin/0.ico");
+  background-position: 0      0;
+}

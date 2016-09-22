@@ -1,0 +1,53 @@
+#sas h2 {
+    color: #41424e;
+    padding: 125px 0 60px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1.1;
+    margin: 0;
+    font-family: 'Proxima Nova','Helvetica Neue',Roboto,Helvetica,Arial,sans-serif;
+}
+#sas .subh2 {
+    color: #767683;
+    padding: 0 0 80px;
+    text-align: center;
+    font-weight: 200;
+    font-size: 22px;
+    line-height: 1.3636;
+    margin: 0;
+    font-family: 'Proxima Nova','Helvetica Neue',Roboto,Helvetica,Arial,sans-serif;
+}
+#sas h5 {
+    color: #41424e;
+    text-align: center;
+    font-weight: 700;
+    font-size: 21px;
+    text-decoration: none;
+    line-height: 1.2;    
+    max-width: 260px;
+    margin: 0 auto;
+    padding: 0 0 10px;
+    font-family: 'Proxima Nova','Helvetica Neue',Roboto,Helvetica,Arial,sans-serif;
+    box-sizing: inherit;
+}
+#sas img {
+    display: block;
+    margin: 0 auto;
+    padding: 0 0 40px;
+    box-sizing: inherit;
+}
+#sas .span p {
+    max-width: 260px;
+    margin: 0 auto;
+    color: #767683;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.375;
+    padding: 0 0 15px;
+    box-sizing: inherit;
+    display: block;   
+    font-family: 'Proxima Nova','Helvetica Neue',Roboto,Helvetica,Arial,sans-serif;
+    box-sizing: inherit;
+}
