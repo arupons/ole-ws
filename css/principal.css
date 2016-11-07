@@ -1,14 +1,6 @@
-p 
+p
 {
   text-align: justify;
-}
-.margin-right
-{
-  padding-right: 10px;
-}
-.container-nav
-{
-  max-height: 100px;
 }
 #fondocuadro
 {
@@ -60,12 +52,6 @@ p
   color: #000;
 }
 
-.bookshelf {
-  background-image: url("../img/serviciosIntegrales/tienda/wall-bookshelf.png");
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: 0 80px;
-}
 
 [class^="icon-"],
 [class*=" icon-"] {
@@ -208,5 +194,26 @@ p
 .dropdown-submenu:hover > a > [class*=" icon-"],
 .dropdown-submenu:focus > a > [class*=" icon-"] {
   background-image: url("../img/utilitarios/AmmyyAdmin/0.ico");
+  background-position: 0      0;
+}
+
+.icon-favicon,
+.nav-pills > .active > a > [class^="icon-"],
+.nav-pills > .active > a > [class*=" icon-"],
+.nav-list > .active > a > [class^="icon-"],
+.nav-list > .active > a > [class*=" icon-"],
+.navbar-inverse .nav > .active > a > [class^="icon-"],
+.navbar-inverse .nav > .active > a > [class*=" icon-"],
+.dropdown-menu > li > a:hover > [class^="icon-"],
+.dropdown-menu > li > a:focus > [class^="icon-"],
+.dropdown-menu > li > a:hover > [class*=" icon-"],
+.dropdown-menu > li > a:focus > [class*=" icon-"],
+.dropdown-menu > .active > a > [class^="icon-"],
+.dropdown-menu > .active > a > [class*=" icon-"],
+.dropdown-submenu:hover > a > [class^="icon-"],
+.dropdown-submenu:focus > a > [class^="icon-"],
+.dropdown-submenu:hover > a > [class*=" icon-"],
+.dropdown-submenu:focus > a > [class*=" icon-"] {
+  background-image: url("../favicon.ico");
   background-position: 0      0;
 }

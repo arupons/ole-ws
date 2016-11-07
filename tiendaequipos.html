@@ -19,38 +19,23 @@
 		<style class="anchorjs"></style><link href="css/bootstrap-btns.css" rel="stylesheet">
 		<style class="anchorjs"></style><link href="css/bootstrap-menu.css" rel="stylesheet">
 		<style class="anchorjs"></style><link href="css/principal.css" rel="stylesheet">
-		<style class="anchorjs"></style><link href="css/flipbook.css" rel="stylesheet">
 		<style class="anchorjs"></style>
 		<link href="css/yamm.css" rel="stylesheet">
 		<link rel="icon" href="favicon.ico">
 		<script type="text/javascript" src="js/jquery.js"></script>
 		<script type="text/javascript" src="js/bootstrap.js"></script>
-		<script type="text/javascript" src="js/modernizr.min.js"></script>
-		<script type="text/javascript" src="js/turn/turn.js"></script>
 	</head>
 	<body>
 		<nav class="navbar navbar-orange navbar-fixed-top">
 			<div class="container-fluid">
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-						<span class="sr-only">Desplegar navegación</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
 					<a class="navbar-brand" href="#">
 						<img alt="OLE" src="img/logo-nav-white.png" >
 					</a>
 				</div>
-				<div class="collapse navbar-collapse navbar-ex1-collapse">
-					<div class="navbar-right navbar-btn btn-ingresar">
-		                <a class='btn btn-info' href="http://190.214.14.174:8081/riux/27091620/public/cliente" target="_blank"><i class="glyphicon-user glyphicon"></i>  Soporte T&eacute;cnico</a><br />
-	                </div>
-				</div>
-	                <!-- Contador de visitas -->
-	                <center class="pull-right margin-right"><a href="#" title="Contador De Visitas">
-		                    <img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=210515"></a><br></center>
-	                <!-- Fin Contador de visitas -->
+				<div class="navbar-right navbar-btn btn-ingresar">
+             		<a class='btn btn-info'><i class="glyphicon-user glyphicon"></i>  Ingresar</a>
+             	</div>
 			</div>
 		</nav>
 
@@ -84,12 +69,12 @@
 			               <div class="yamm-content well">
 			                  <div class="row">
 			                    <ul class="nav nav-pills nav-stacked">
-										<li><a href="tiendaequipos"><i class="orange glyphicon glyphicon-shopping-cart"></i> Tienda de Equipos de Computo</a></li>
-										<li><a href="sas"><i class="orange icon icon-ss"></i> Mantenimiento Correctivo y Preventivo de PCs</a></li>
-										<li><a href="redesestructuradas"><i class="orange glyphicon glyphicon-transfer"></i> Dise&ntilde;o y configuraci&oacute;n de Redes</a></li>
-										<li><a href="servidoresvirtuales"><i class="orange glyphicon glyphicon-hdd"></i> Servidores Virtuales</a></li>
-										<li><a href="paginasweb"><i class="orange glyphicon glyphicon-globe"></i> P&aacute;ginas Web para nuestros clientes</a></li>
-										<li><a href="capacitacions"><i class="orange glyphicon glyphicon-blackboard"></i> Capacitaciones</a></li>
+														<li><a href="tiendaequipos"><i class="orange glyphicon glyphicon-shopping-cart"></i> Tienda de Equipos de Computo</a></li>
+														<li><a href="sas"><i class="orange icon icon-ss"></i> Mantenimiento Correctivo y Preventivo de PCs</a></li>
+														<li><a href="redesestructuradas"><i class="orange glyphicon glyphicon-transfer"></i> Dise&ntilde;o y configuraci&oacute;n de Redes</a></li>
+														<li><a href="servidoresvirtuales"><i class="orange glyphicon glyphicon-hdd"></i> Servidores Virtuales</a></li>
+														<li><a href="paginasweb"><i class="orange glyphicon glyphicon-globe"></i> P&aacute;ginas Web para nuestros clientes</a></li>
+														<li><a href="capacitacions"><i class="orange glyphicon glyphicon-blackboard"></i> Capacitaciones</a></li>
 			                    	<li><a href="consultoria"><i class="orange glyphicon glyphicon-phone"></i> Consultor&iacute;as</a></li>
 			                    	<li><a href="telefoniaip"><i class="orange glyphicon glyphicon-phone-alt"></i> Telefon&iacute;a IP</a></li>
 			                    	<li><a href="respaldamostuinformacion"><i class="orange glyphicon glyphicon-cloud-upload"></i> Respaldamos tu informaci&oacute;n</a></li>
@@ -131,8 +116,8 @@
 			               <div class="yamm-content well">
 			                  <div class="row">
 			                    <ul class="nav nav-pills nav-stacked">
-			                    	<li><a href="files/utilitarios/AnyDesk.exe"><i class="icon-anydesk"></i> AnyDesk</a></li>
-			                    	<li><a href="files/utilitarios/AA_v3.exe"><i class="icon-ammyyadmin"></i> Ammyy Admin</a></li>
+			                    	<li><a href="http://anydesk.es/download"><i class="icon-anydesk"></i> AnyDesk</a></li>
+			                    	<li><a href="http://olesistemas.net/utilitarios"><i class="icon-favicon"></i>VisualWeb</a></li>
 			                  </div>
 			                </div>
 			           </li>
@@ -149,50 +134,640 @@
 		</div>
 		<br />
 		<div class="container">
-			<div class="row">
-				<!--<div class="col-md-1"></div>-->
-				<div class="col-xs-6 col-md-2">
-				    <a href="#" class="thumbnail" data-toggle="modal" data-target="#viperc">
-			   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/viperc.jpg" alt="Sas Solutions">
-					  <div class="caption">
-					    <h4>Prueba</h4>
-					  </div>
-				    </a>
-				    <div class="modal fade" id="viperc" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-					  <div class="modal-dialog" role="document">
-					    <div class="modal-content">
-					      <div class="modal-body">
-					      	    <div class="flipbook-viewport" width='600px' height='800px'>
-									<div class="container">
-										<div class="flipbook">
-											<div style="background-image:url(pages/1.jpg)"></div>
-											<div style="background-image:url(pages/2.jpg)"></div>
-											<div style="background-image:url(pages/3.jpg)"></div>
-											<div style="background-image:url(pages/4.jpg)"></div>
-											<div style="background-image:url(pages/5.jpg)"></div>
-											<div style="background-image:url(pages/6.jpg)"></div>
-											<div style="background-image:url(pages/7.jpg)"></div>
-											<div style="background-image:url(pages/8.jpg)"></div>
-											<div style="background-image:url(pages/9.jpg)"></div>
-											<div style="background-image:url(pages/10.jpg)"></div>
-											<div style="background-image:url(pages/11.jpg)"></div>
-											<div style="background-image:url(pages/12.jpg)"></div>
-										</div>
-									</div>
-								</div>
-					      </div>
-					      <div class="modal-footer">
-					        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-					      </div>
-					    </div>
-					  </div>
-					</div>
-			  	</div>
-			</div>
-			
+
+                        <div class="row">
+                      
+                             <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#cloni5"> 
+		   		  <img style="max-width:100%; min-width: 60%;" src="img/serviciosIntegrales/tienda/ci5.png" alt="Sas Solutions" title = "Computadora de 6ta Generación">
+				  <div class="caption">
+				    <h4>Computadora i5 6Ta Generación</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="cloni5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/cloni5.png" alt="Sas Solutions">
+				      </div>
+        	                          <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+
+                              <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#cloni3"> 
+		   		  <img style="max-width:100%; min-width: 60%;" src="img/serviciosIntegrales/tienda/ci3.png" alt="Sas Solutions" title = "Computadora de 6ta Generación">
+				  <div class="caption">
+				    <h4>Computadora i3 6Ta Generación</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="cloni3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/cloni3.png" alt="Sas Solutions">
+				      </div>
+        	                          <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+			   
+
+                              <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#pentium"> 
+		   		  <img style="max-width:100%; min-width: 60%;" src="img/serviciosIntegrales/tienda/pen.png" alt="Sas Solutions" title = "Computadora de 6ta Generación">
+				  <div class="caption">
+				    <h4>Computadora Pentium 6Ta Generación</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="pentium" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/clonpen.png" alt="Sas Solutions">
+				      </div>
+        	                          <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+
+                               <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#cpui5"> 
+		   		  <img style="max-width:100%; min-width: 60%;" src="img/serviciosIntegrales/tienda/i5.png" alt="Sas Solutions" title = "CPU de 6ta Generación">
+				  <div class="caption">
+				    <h4>CPU i5 6400 de 6ta Generación </h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="cpui5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/cpui5.png" alt="Sas Solutions">
+				      </div>
+        	                          <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+
+                               <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#cpui36">
+		   		  <img style="max-width:100%; min-width: 60%;" src="img/serviciosIntegrales/tienda/i3.png" alt="Sas Solutions" title = "CPU de 6ta Generación">
+				  <div class="caption">
+				    <h4>CPU i3 6100 de 6ta Generación </h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="cpui36" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/cpui3.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                                 <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#cpupentium">
+		   		  <img style="max-width:100%; min-width: 60%;" src="img/serviciosIntegrales/tienda/penti.png" alt="Sas Solutions" title = "CPU de 6ta Generación">
+				  <div class="caption">
+				    <h4>CPU Pentium G4400 de 6ta Generación </h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="cpupentium" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				    <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/cpupen.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                              
 		</div>
-        <br />
-        <br />
+
+        <div class="row">
+			 
+                          <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#dell">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/dell.png" alt="Sas Solutions" title = "Notebook DELL 15.6"" >
+				  <div class="caption">
+				    <h4>Notebook DELL 15.6 Touch Screen"</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="dell" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/NOT15.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+                         </div>
+
+                           <div class="col-xs-6 col-md-2">
+
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#lenovo">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/leno.png" alt="Sas Solutions" title = "Notebook LENOVO 15.6"">
+				  <div class="caption">
+				    <h4>Notebook Lenovo 15.6"</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="lenovo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/LENOVO15.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			   </div>
+                              <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#delli3">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/delli3.jpg" alt="Sas Solutions">
+				  <div class="caption">
+				    <h4>Prueba</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="delli3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/delli3.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			   </div>
+                              <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#delli3">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/delli3.jpg" alt="Sas Solutions">
+				  <div class="caption">
+				    <h4>Prueba</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="delli3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/delli3.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			   </div>
+                          <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#delli3">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/delli3.jpg" alt="Sas Solutions">
+				  <div class="caption">
+				    <h4>Prueba</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="delli3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/delli3.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			   </div>
+                         <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#delli3">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/delli3.jpg" alt="Sas Solutions">
+				  <div class="caption">
+				    <h4>Prueba</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="delli3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/delli3.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			   </div>
+                  </div>
+         <div class="row">
+			   <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#fx890">
+		      <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/impfx890.png" alt="Sas Solutions" title = "Impresora Matricial FX890">
+				  <div class="caption">
+				    <h4>Impresora Epson <br /> FX-890</h4>
+                                                              
+				  </div>
+			    </a>
+			    <div class="modal fade" id="fx890" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/fx890.jpg" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                            <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#350lx">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/350lx.jpg" alt="Sas Solutions" title = "Impresora Matricial LX350">
+                                      <div class="caption">
+				    <h4>Imp. Epson LX350 </h4>
+                                                              
+				  </div>
+                                 
+			    </a>
+			    <div class="modal fade" id="350lx" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/IMPlx350.png" alt="Sas Solutions">
+				      </div>
+
+                         	      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                             <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#355l">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/355l.jpg" alt="Sas Solutions" title = "Impresora a Tinta Continua L375">
+				  <div class="caption">
+				    <h4>Imp. Epson L375</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="355l" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/impl375.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			     </div>
+                            <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#l220">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/l220.jpg" alt="Sas Solutions" title = "Impresora a Tinta Continua L220">
+				  <div class="caption">
+				    <h4>Imp. Epson l220</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="l220" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/impl220.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			     </div>
+                            <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#220tu">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/220tu.jpg" alt="Sas Solutions" title = "Impresora Punto de Venta">
+				  <div class="caption">
+				    <h4>Imp. Epson TMU 220D</h4>
+				  </div>
+			    </a>
+		      	<div class="modal fade" id="220tu" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/imppunto.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                        <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#zebra">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/zebra.jpg" alt="Sas Solutions" title = "Impresora Etiquetera">
+				  <div class="caption">
+				    <h4>Prueba</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="zebra" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/zebra.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+               </div>
+			  
+               <div class="row">
+                          <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#7120mk">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/7120mk.jpg" alt="Sas Solutions" title = "Scanner Metrologic Orbit">
+				  <div class="caption">
+				    <h4>Scanner Metrologic Orbit MK-7120 </h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="7120mk" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/orbit.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+			  <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#voyagere">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/voyagere.jpg" alt="Sas Solutions" title = "Scanner Metrologic Voyager 1200g" >
+				  <div class="caption">
+				    <h4>Scanner Metrologic Voyager 1200g</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="voyagere" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/escvo1200.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+			  <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#dellp">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/dellp.jpg" alt="Sas Solutions"  title = "Scanner Metrologic Voyager 1200g">
+				  <div class="caption">
+				    <h4>Prueba</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="dellp" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/dellp.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+			  <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#biok14">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/k14.png" alt="Sas Solutions" title = "Reloj Biometrico K14">
+				  <div class="caption">
+				    <h4>Reloj Biometrico K14</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="biok14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/biok14.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			    </div>
+			  <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#bio360">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/360.png" alt="Sas Solutions" title = "Reloj Biometrico 360 ID">
+				  <div class="caption">
+				    <h4>Reloj Biometrico 360 ID</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="bio360" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   	<img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/bio360.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			    </div>
+                            <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#biorostro">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/rostro.png" alt="Sas Solutions" title = "Reloj Biometrico Rostro">
+				  <div class="caption">
+				    <h4>Reloj Biometrico Rostro</h4>
+				  </div>
+			      <!--<img src="..." alt="...">-->
+			    </a>
+			    <div class="modal fade" id="biorostro" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/biorostro.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+                             </div>
+                       </div>
+              <div class="row">
+
+                          <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#kit3">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/3kit.png" alt="Sas Solutions" title = "Kit de 3 Cámaras en HD-720P">
+				  <div class="caption">
+				    <h4>Kit 3 Cámaras en HD-720p</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="kit3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/kit3s.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+			
+                           <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#kit6">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/6kit.png" alt="Sas Solutions" title = "Kit de 6 Cámaras en HD-720P">
+				  <div class="caption">
+				    <h4>Kit 6 Cámaras en HD-720p</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="kit6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/KIT6s.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                         <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#kit4">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/4kit.png" alt="Sas Solutions" title = "Kit de 4 Cámaras en FULL-HD-1080P">
+				  <div class="caption">
+				    <h4>Kit de 4 Cámaras en FULL-HD-1080P</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="kit4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/kit4fh.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                         <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#kit8">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/8kit.png" alt="Sas Solutions" title = "Kit de 8 Cámaras en FULL-HD-1080P">
+				  <div class="caption">
+				    <h4>Kit de 8 Cámaras en FULL-HD-1080P</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="kit8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/kit8fh.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                         <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#pantalla">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/monpor.png" alt="Sas Solutions" title = "Monitor para Video Portero IP">
+				  <div class="caption">
+				    <h4>Monitor IP para Video Portero</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="pantalla" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/PVPIP.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                          <div class="col-xs-6 col-md-2">
+			    <a href="#" class="thumbnail" data-toggle="modal" data-target="#camara">
+		   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/por.png" alt="Sas Solutions" title = "Video Portero IP">
+				  <div class="caption">
+				    <h4>Video Portero IP</h4>
+				  </div>
+			    </a>
+			    <div class="modal fade" id="camara" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-body">
+				   		  <img style="max-width:100%; min-width: 99%;" src="img/serviciosIntegrales/tienda/proformas/vpip.png" alt="Sas Solutions">
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			  </div>
+                      </div>
+
+
+                </div>
+         </div>
 
 		<nav class="navbar navbar-inverse navbar-bottom" style="padding:20px 0 0 0; margin-bottom:0px; color:#FFF">
 		 	<div class="container-fluid">
@@ -225,7 +800,7 @@
 						</dl>
 					</div>
 					<div class="col-xs-6 col-md-2">
-						<dl class="dl-vertical footer">
+						<dl class="dl-vertical">
 							<dt><i class="glyphicon glyphicon-road"></i> Direcci&oacute;n</dt>
 							<dd>AV. 25 DE JUNIO KM 1 V&Iacute;A A PASAJE</dd>
 							<dd>Ciudad del Sol. Torre Profesional Center. 1 piso. Oficina #210</dd>
@@ -251,31 +826,4 @@
 			 </div>
 		 </nav>
 	</body>
-	<script type="text/javascript">
-		function loadApp() {
-			// Create the flipbook
-			$('.flipbook').turn({
-					// Width
-					width:922,
-					// Height
-					height:600,
-					// Elevation
-					elevation: 50,
-					// Enable gradients
-					gradients: true,
-					// Auto center this flipbook
-					autoCenter: true
-			});
-		}
-
-		// Load the HTML4 version if there's not CSS transform
-		yepnope({
-			test : Modernizr.csstransforms,
-			yep: ['js/turn/turn.js'],
-			nope: ['js/turn/turn.html4.min.js'],
-			both: ['css/basic.css'],
-			complete: loadApp
-		});
-
-		</script>
 </html>
