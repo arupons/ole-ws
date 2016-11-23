@@ -18,9 +18,9 @@
 				<!--Aquí termina columna 1, Prueba 1-->
 				<div class="col-xs-6 col-md-2">
 				    <a href="#" class="thumbnail"> 
-			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/mia.png" alt="Autoservicios" title = "Clientesh">
+			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/exfari 1.png" alt="Autoservicios" title = "Clientesh">
 					  <div class="caption">
-					    <h4>FARMACIAS MIA</h4>
+					    <h4>FARMACIAS EXFARI</h4>
 					  </div>
 				    </a>
 				</div>
@@ -34,9 +34,9 @@
 				</div>
 				<div class="col-xs-6 col-md-2">
 				    <a href="#" class="thumbnail"> 
-			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/mia1.png" alt="Autoservicios" title = "Clientesh">
+			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/robert.jpg" alt="Autoservicios" title = "Clientesh">
 					  <div class="caption">
-					    <h4>FARMACIAS MIA</h4>
+					    <h4>FARMACIAS ROBERT</h4>
 					  </div>
 				    </a>
 				</div>
@@ -66,34 +66,34 @@
 				<!--Aquí empieza columna 1, Prueba 1-->
 				<div class="col-xs-6 col-md-2">
 				    <a href="#" class="thumbnail"> 
-			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/oroestiba.jpg" alt="Autoservicios" title = "ClienteX">
+			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/exfari2.jpg" alt="Autoservicios" title = "ClienteX">
 					  <div class="caption">
-					    <h4>OROESTIBA S.A</h4>
+					    <h4>FARMACIA EXFARI PUERTO BOLIVAR</h4>
 					  </div>
 				    </a>
 				</div>
 				<!--Aquí termina columna 1, Prueba 1-->
 				<div class="col-xs-6 col-md-2">
 				    <a href="#" class="thumbnail"> 
-			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/visualac.ico" alt="Autoservicios" title = "Clientesh">
+			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/cisne2.jpg" alt="Autoservicios" title = "Clientesh">
 					  <div class="caption">
-					    <h4>Visualfac</h4>
+					    <h4>FARMACIA REINA DEL CISNE SUCURSAL # 1</h4>
 					  </div>
 				    </a>
 				</div>
 				<div class="col-xs-6 col-md-2">
 				    <a href="#" class="thumbnail"> 
-			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/MITIENDA.png" alt="Autoservicios" title = "Clientesh">
+			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/sertinsa1.jpg" alt="Autoservicios" title = "Clientesh">
 					  <div class="caption">
-					    <h4>MI TIENDA AUTOSERVICIO</h4>
+					    <h4>SERTINSA DISTRIBUIDOR DE MEDICINA</h4>
 					  </div>
 				    </a>
 				</div>
 				<div class="col-xs-6 col-md-2">
 				    <a href="#" class="thumbnail"> 
-			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/clientesh.jpg" alt="Autoservicios" title = "Clientesh">
+			   		  <img style="max-width:100%; min-width: 60%;" src="img/clientes/magio.jpg" alt="Autoservicios" title = "Clientesh">
 					  <div class="caption">
-					    <h4>Prueba 4</h4>
+					    <h4>BIOLOGICOS ALVARADO & MAGGIO </h4>
 					  </div>
 				    </a>
 				</div>
