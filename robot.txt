@@ -1,0 +1,7 @@
+User-agent: Googlebot
+
+Allow: /assets/footer.html
+Allow: /assets/header.html
+Allow: /index.php
+
+Disallow: /
