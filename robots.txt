@@ -3,5 +3,6 @@ User-agent: *
 Allow: /assets/footer.html
 Allow: /assets/header.html
 Allow: /index.php
+Allow: /index
 
 Disallow: /
