@@ -113,7 +113,7 @@
 			  </div>
 			  <p> <h3><b>Autoservicios</b></h3></p>
 			  <h5>
-			  <p> Visual fac tambi&eacute;n esta dise&ntilde;ado para aplicar en Supermercados y Autoservicios. Es un m&oacute;dulo de facturaci&oacute;n especial que se integra completamente con el departamento contable, podr&aacute; gestionar los cambios de precios, generar etiquetas para las g&oacute;ndolas evitando marcar producto por producto, automatizar la facturaci&oacute;n utilizando c&oacute;digos de barra, permite la facturaci&oacute;n por peso leyendo etiquetas de balanza, manejo de descuentos por temporada, controlar la caja diaria, etc. </p>
+			  <p> Visualfac tambi&eacute;n esta dise&ntilde;ado para aplicar en Supermercados y Autoservicios. Es un m&oacute;dulo de facturaci&oacute;n especial que se integra completamente con el departamento contable, podr&aacute; gestionar los cambios de precios, generar etiquetas para las g&oacute;ndolas evitando marcar producto por producto, automatizar la facturaci&oacute;n utilizando c&oacute;digos de barra, permite la facturaci&oacute;n por peso leyendo etiquetas de balanza, manejo de descuentos por temporada, controlar la caja diaria, etc. </p>
 			</h5>
 			</div>
 			<div id="hoteles" class="row">
@@ -124,7 +124,7 @@
 			  </div>
 			  <p> <h3><b>Distribuidoras</b></h3></p>
 			  <h5>
-			  <p> Tenemos m&aacute;s de 15 a&ntilde;os de experiencia en el manejo de empresas de este tipo, y esto nos ha permitido dise&ntilde;ar un sistema que tiene las siguiente fortalezas: permite realizar &oacute;rdenes de compras inteligentes e intuitivas, control estricto de inventarios, control de descuentos y promociones autom&aacute;ticos, diferentes formas de pago de comisiones, <b>FACTURACI&Oacute;N Y PEDIDOS POR MEDIO DE DISPOSITIVOS M&Oacute;VILES PARA VENDEDORES</b>, y m&aacute;s de 1000 reportes para la toma correcta de decisiones y el control total de la empresa </p>
+			  <p> Tenemos m&aacute;s de 15 a&ntilde;os de experiencia en el manejo de empresas de este tipo, y esto nos ha permitido dise&ntilde;ar Visualfac que tiene las siguiente fortalezas: permite realizar &oacute;rdenes de compras inteligentes e intuitivas, control estricto de inventarios, control de descuentos y promociones autom&aacute;ticos, diferentes formas de pago de comisiones, <b>FACTURACI&Oacute;N Y PEDIDOS POR MEDIO DE DISPOSITIVOS M&Oacute;VILES PARA VENDEDORES</b>, y m&aacute;s de 1000 reportes para la toma correcta de decisiones y el control total de la empresa </p>
 			</h5>
 			</div>
 			<div id="farmacias" class="row">
@@ -135,7 +135,7 @@
 			  </div>
 			  <p> <h3><b>Hoteles</b></h3></p>
 			  <h5>
-			  <p> Visual fac hoteles, es una versi&oacute;n dise&ntilde;ada para controlar la operaci&oacute;n de hoteles y hoster&iacute;as en forma integral, manejo f&aacute;cil y r&aacute;pido de todas las habitaciones en sus diferentes estados, manejo del check-in, check-out y facturaci&oacute;n, integraci&oacute;n con restaurant, control de consumos de los pasajeros, control de bodegas e inventarios, control de cierre de caja por recepcionista, m&uacute;ltiples reportes gerenciales como: PORCENTAJE OCUPACIONAL, ESTAD&Iacute;STICAS DE VENTAS, RESERVACIONES, ESTAD&Iacute;AS, etc. </p>
+			  <p> Visualfac hoteles, es una versi&oacute;n dise&ntilde;ada para controlar la operaci&oacute;n de hoteles y hoster&iacute;as en forma integral, manejo f&aacute;cil y r&aacute;pido de todas las habitaciones en sus diferentes estados, manejo del check-in, check-out y facturaci&oacute;n, integraci&oacute;n con restaurant, control de consumos de los pasajeros, control de bodegas e inventarios, control de cierre de caja por recepcionista, m&uacute;ltiples reportes gerenciales como: PORCENTAJE OCUPACIONAL, ESTAD&Iacute;STICAS DE VENTAS, RESERVACIONES, ESTAD&Iacute;AS, etc. </p>
 			</h5>
 			</div>
 			<div class="row">
@@ -146,7 +146,7 @@
 			  </div>
 			  <p> <h3><b>Farmacias</b></h3></p>
 			  <h5>
-			  <p> Es un software ideal para farmacias y distribuidoras farmac&eacute;uticas, entre sus fortalezas m&aacute;s importantes tenemos: control de inventarios por farmacia para el caso de tener sucursales, soporta precios PVP Y PVF, &oacute;rdenes de compra inteligentes por laboratorio, historial y rotaci&oacute;n de productos , descuentos autom&aacute;ticos, cuenta con un m&oacute;dulo especial de facturaci&oacute;n para las farmacias, este m&oacute;dulo le permite al facturador tener un control de los gen&eacute;ricos, laboratorios, vademecum, etc. resultados por farmacias, esto le permitir&aacute; evaluar la eficiencia de cada farmacia, y m&aacute;s de 1000 reportes para la toma de decisiones y el control total de la empresa todos exportables a excel. </p>
+			  <p> Visualfac es un software ideal para farmacias y distribuidoras farmac&eacute;uticas, entre sus fortalezas m&aacute;s importantes tenemos: control de inventarios por farmacia para el caso de tener sucursales, soporta precios PVP Y PVF, &oacute;rdenes de compra inteligentes por laboratorio, historial y rotaci&oacute;n de productos , descuentos autom&aacute;ticos, cuenta con un m&oacute;dulo especial de facturaci&oacute;n para las farmacias, este m&oacute;dulo le permite al facturador tener un control de los gen&eacute;ricos, laboratorios, vademecum, etc. resultados por farmacias, esto le permitir&aacute; evaluar la eficiencia de cada farmacia, y m&aacute;s de 1000 reportes para la toma de decisiones y el control total de la empresa todos exportables a excel. </p>
 			</h5>
 			</div>
 			<div id="constructoras" class="row">
@@ -157,7 +157,7 @@
 			  </div>
 			  <p> <h3><b>Restaurants</b></h3></p>
 			  <h5>
-			  <p> Este sector comercial tiene una caracter&iacute;stica fundamental, el control de inventarios y la atenci&oacute;n al cliente, entre las ventajas principales tenemos: manejo de pagos tradicionales, visualizaci&oacute;n de la pre-factura, estado de las mesas: libres, ocupadas, reservadas, control de cortes&iacute;as, control de ventas a cr&eacute;dito ideal para eventos, control de precios autom&aacute;ticos seg&uacute;n el tipo de cliente, control del cierre de caja, etc. </p>
+			  <p> Visualfac en este sector comercial tiene una caracter&iacute;stica fundamental, el control de inventarios y la atenci&oacute;n al cliente, entre las ventajas principales tenemos: manejo de pagos tradicionales, visualizaci&oacute;n de la pre-factura, estado de las mesas: libres, ocupadas, reservadas, control de cortes&iacute;as, control de ventas a cr&eacute;dito ideal para eventos, control de precios autom&aacute;ticos seg&uacute;n el tipo de cliente, control del cierre de caja, etc. </p>
 			</h5>
 			</div>
 			<div class="row">
@@ -168,7 +168,7 @@
 			  </div>
 			  <p> <h3><b>Constructoras</b></h3></p>
 			  <h5>
-			  <p> Tenemos una versi&oacute;n para EMPRESAS CONSTRUCTORAS, est&aacute; dise&ntilde;ado para procesar los movimientos por cada centro de costos o proyectos, esto le permitir&aacute; obtener los informes financieros por cada uno de sus proyectos o de manera general, por medio de los centros de costos le permitir&aacute;  tener un mejor control de los gastos de cada proyecto y sus ingresos, control de anticipos a trabajadores y a contratistas, control de anticipos de clientes, control de la n&oacute;mina en funci&oacute;n a cada proyecto. </p>
+			  <p> Visualfac tiene una versi&oacute;n para EMPRESAS CONSTRUCTORAS, est&aacute; dise&ntilde;ado para procesar los movimientos por cada centro de costos o proyectos, esto le permitir&aacute; obtener los informes financieros por cada uno de sus proyectos o de manera general, por medio de los centros de costos le permitir&aacute;  tener un mejor control de los gastos de cada proyecto y sus ingresos, control de anticipos a trabajadores y a contratistas, control de anticipos de clientes, control de la n&oacute;mina en funci&oacute;n a cada proyecto. </p>
 			</h5>
 			</div>
 			<div class="row">
@@ -179,7 +179,7 @@
 			  </div>
 			  <p> <h3><b>Oficinas Contables</b></h3></p>
 			  <h5>
-			  <p> Resulta muy &uacute;til para oficinas contables, con un solo registro de compras o ventas el sistema le realiza el circuito que usted necesita, tiene herramientas para que usted pueda importar las compras y/o ventas de sus clientes al sistema, facilit&aacute;ndole contabilizar y realizar los ATS, este programa sin duda le ahorrar&aacute; tiempo y costos que le permitir&aacute;n optimizar sus gastos para tener una verdadera rentabilidad. </p>
+			  <p> Visualfac resulta muy &uacute;til para oficinas contables, con un solo registro de compras o ventas el sistema le realiza el circuito que usted necesita, tiene herramientas para que usted pueda importar las compras y/o ventas de sus clientes al sistema, facilit&aacute;ndole contabilizar y realizar los ATS, este programa sin duda le ahorrar&aacute; tiempo y costos que le permitir&aacute;n optimizar sus gastos para tener una verdadera rentabilidad. </p>
 			</h5>
 			</div>
 
@@ -191,7 +191,7 @@
 			  </div>
 			  <p> <h3><b>Comercios en General</b></h3></p>
 			  <h5>
-			  <p> Es un sistema inteligente, especializado en diferentes tipos de negocios, dispone de m&aacute;s de 1000 reportes, todos exportables a Excel, PDF, din&aacute;mico e integrado con todos sus m&oacute;dulos y con un ambiente gr&aacute;fico para trabajar con total comodidad y facilidad, no necesita ser un experto ni haber tenido experiencia en programas para manejar el sistema, cuenta con un servicio de capacitaci&oacute;n, asesor&iacute;a y soporte t&eacute;cnico, garantizando la puesta en marcha del mismo y su correcto funcionamiento.  </p>
+			  <p> Visualfac es un sistema inteligente, especializado en diferentes tipos de negocios, dispone de m&aacute;s de 1000 reportes, todos exportables a Excel, PDF, din&aacute;mico e integrado con todos sus m&oacute;dulos y con un ambiente gr&aacute;fico para trabajar con total comodidad y facilidad, no necesita ser un experto ni haber tenido experiencia en programas para manejar el sistema, cuenta con un servicio de capacitaci&oacute;n, asesor&iacute;a y soporte t&eacute;cnico, garantizando la puesta en marcha del mismo y su correcto funcionamiento.  </p>
 			</h5>
 			</div>
 
@@ -203,7 +203,7 @@
 			  </div>
 			  <p> <h3><b>Concesionarias de Veh&iacute;culos</b></h3></p>
 			  <h5>
-			  <p> Es un sistema inteligente, especializado en diferentes tipos de negocios, dispone de m&aacute;s de 1000 reportes, todos exportables a Excel, PDF, din&aacute;mico e integrado con todos sus m&oacute;dulos y con un ambiente gr&aacute;fico para trabajar con total comodidad y facilidad, no necesita ser un experto ni haber tenido experiencia en programas para manejar el sistema, cuenta con un servicio de capacitaci&oacute;n, asesor&iacute;a y soporte t&eacute;cnico, garantizando la puesta en marcha del mismo y su correcto funcionamiento.  </p>
+			  <p> Visualfac es un sistema inteligente, especializado en diferentes tipos de negocios, dispone de m&aacute;s de 1000 reportes, todos exportables a Excel, PDF, din&aacute;mico e integrado con todos sus m&oacute;dulos y con un ambiente gr&aacute;fico para trabajar con total comodidad y facilidad, no necesita ser un experto ni haber tenido experiencia en programas para manejar el sistema, cuenta con un servicio de capacitaci&oacute;n, asesor&iacute;a y soporte t&eacute;cnico, garantizando la puesta en marcha del mismo y su correcto funcionamiento.  </p>
 			</h5>
 			</div>
 		</div>
