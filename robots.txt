@@ -1,4 +1,4 @@
-User-agent: Googlebot
+User-agent: *
 
 Allow: /assets/footer.html
 Allow: /assets/header.html
